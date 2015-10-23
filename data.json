@@ -1,0 +1,39 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "name": "Rakesh kolipaka",
+      "city": "Farmington Hills",
+      "state": "Michigan",
+      "zip": "48331"
+    },
+    {
+      "id": 2,
+      "name": "Yeshwant dasar",
+      "city": "Farmington Hills",
+      "state": "Michigan",
+      "zip": "48335"
+    },
+    {
+      "id": 3,
+      "name": "Pavan",
+      "city": "Manhattan",
+      "state": "New York",
+      "zip": "56323"
+    },
+    {
+      "id": 4,
+      "name": "Anusha",
+      "city": "Kingsville",
+      "state": "Texas",
+      "zip": "78363"
+    },
+    {
+      "id": 5,
+      "name": "Vishak",
+      "city": "Alpharetta",
+      "state": "Georgia",
+      "zip": "30005"
+    }
+  ]
+}
